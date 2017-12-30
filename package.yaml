@@ -1,6 +1,6 @@
-name:                dep-one
+name:                dep-two
 version:             0.1.0.0
-github:              "kadoban/test-dep-one"
+github:              "kadoban/test-dep-two"
 license:             BSD3
 author:              "Joshua Simmons"
 maintainer:          "joshua.simmons@emptypath.com"
